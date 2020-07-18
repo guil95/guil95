@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/guil95/guil95/blob/master/naruto.gif">
 
 - 🔭 I'm currently working on private projects for fintech 
 - 🌱 I'm currently focused on learning clean architecture, clean code and good practices
