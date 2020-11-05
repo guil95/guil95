@@ -14,3 +14,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerodriguestb@gmail.com)](mailto:guilhermerodriguestb@gmail.com)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=guil95&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/guil95)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guil95&hide=html&layout=compact&theme=buefy)]
