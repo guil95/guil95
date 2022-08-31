@@ -2,7 +2,7 @@
 
 <img src="https://github.com/guil95/guil95/blob/master/naruto.gif">
 
->I'm working on private projects for fintech and learning golang, clean architecture, clean code and hexagonal architecture.
+
 >
 <div align="center">
   <a href="https://github.com/guil95">
