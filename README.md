@@ -23,4 +23,8 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
 </div>
-  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/guil95/count.svg" />
+</p>
