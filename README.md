@@ -29,4 +29,4 @@
   <img src="https://profile-counter.glitch.me/guil95/count.svg" />
 </p>
 
-![snake gif](https://github.com/guil95/guil95/blob/output/github-contribution-grid-snake-dark.gif)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/guil95/guil95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
