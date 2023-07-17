@@ -1,9 +1,9 @@
 # Hi there 👋
+<div align="justify">
+  My name is Guilherme but can you call me just Gui, I'm software engineer with 8+ years of experience working on a variety of projects. Specialist in back-end development with Go, PHP, Kotlin, Java and other related technologies. Bachelor’s Degree in Analysis and Systems Development and experience working in small, medium and big-sized companies building complex back-end solutions. For me SOLID and Clean Arch is a must, I have vast experience working with unit tests and with asynchronous systems too.
 
-<img src="https://github.com/guil95/guil95/blob/master/naruto.gif">
-
-
->
+I'm skilled at communicating with the diverse parties involved in the development process to efficiently solve problems. Passionate about my work and adapts quickly to new technologies, constantly looking to improve and learn. My experience allows me to get involved in the full development process from planning to deployment.
+</div>
 <div align="center">
   <a href="https://github.com/guil95">
 
