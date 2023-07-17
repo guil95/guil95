@@ -24,6 +24,3 @@
 
 </div>
 
-
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/guil95/guil95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
