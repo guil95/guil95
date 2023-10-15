@@ -4,11 +4,7 @@
 
 I'm skilled at communicating with the diverse parties involved in the development process to efficiently solve problems. Passionate about my work and adapts quickly to new technologies, constantly looking to improve and learn. My experience allows me to get involved in the full development process from planning to deployment.
 </div>
-<div align="center">
-  <a href="https://github.com/guil95">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guil95&layout=compact&langs_count=7&theme=gotham"/>
-</div>
 </br>
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
